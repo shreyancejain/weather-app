@@ -1,0 +1,15 @@
+:host ::ng-deep .mat-list-item-content {
+  padding: 0px !important
+}
+
+:host ::ng-deep .mat-list-base {
+  padding: 0 !important;
+}
+
+:host ::ng-deep .mat-list-item {
+  height: 20px !important;
+}
+
+.forecast-card {
+  margin-bottom: 20px;
+}
